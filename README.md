@@ -5,7 +5,7 @@
 
 
 ## ⌨️ How to Use
-1. Download `panda.vssettings`
+1. Download [panda.vssettings](https://raw.githubusercontent.com/alinooshabadi/panda-syntax-visual-studio/master/dist/panda.vssettings)
 2.  Start Visual Studio and Go to `Tools -> Import and Export Settings... -> Import selected environment settings`
 3. Choose whether you want to backup existing settings
 4. Click `Browse` and select the `panda.vssettings` file
